@@ -1,0 +1,9 @@
+.container {
+    display: grid;
+    margin: 20% 10%;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 100%;
+}
+.card {
+    padding: 10%;
+}
